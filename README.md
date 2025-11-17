@@ -59,13 +59,10 @@ Metrics used:
 
 | Metric | Score |
 |--------|--------|
-| Accuracy | **XX%** |
-| F1-score | **XX%** |
-| Precision | **XX%** |
-| Recall | **XX%** |
-
-*(Update with your actual scores.)*
-
+| Accuracy | **0.817** |
+| F1-score | **0.78** |
+| Precision | **0.77** |
+| Recall | **0.80** |
 ---
 
 ## Dataset
@@ -75,25 +72,21 @@ Contains:
 - Text logs of machine operations  
 - Labels indicating failure state  
 
-Example fields (cập nhật theo dataset thật):
-- `log_text`
-- `failure`
-
 Dataset statistics:
-- Number of samples: X  
-- Number of failure cases: X  
-- Number of normal cases: X  
+- Number of samples: 10.000  
+- Number of failure cases: 339  
+- Number of normal cases: 9.661  
 
 ---
 
 ## How to Run
 
-### ✔ Option 1 — Run on Google Colab
+### Option 1 — Run on Google Colab
 1. Open the notebook  
 2. Upload dataset when asked  
 3. Run all cells  
 
-### ✔ Option 2 — Run locally
+### Option 2 — Run locally
 
 Install dependencies:
 
