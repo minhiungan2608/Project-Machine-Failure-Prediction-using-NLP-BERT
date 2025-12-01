@@ -1,5 +1,5 @@
 # Machine Failure Prediction using NLP & BERT
-
+**(This is for Prof. Hamza: If the Jupyter Notebook report error, please kindly download it to open in Collab. Thank you!)**
 This project is the final group assignment for the **"Python for Data Science and AI"** course.  
 We built a machine learning pipeline using **BERT-based NLP models** to predict machine failures from textual logs.
 
